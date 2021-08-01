@@ -10,7 +10,36 @@ My suggestion is a subset of and based on [CLRS](https://en.wikipedia.org/wiki/I
   + Divide-Conquer-Combine strategy
 + Sorting 
   + Quicksort, mergesort, heapsort, InsertionSort
-  + Shell sort, Radix sort
+  + Shell sort, Radix sort, bucket sort,
++ Elementary data structures 
+  + Stack
+  + LinkedList, Doubly linkedlist
+  + Queue, Dequeue
+  + Pointer and Object
+  + Allocating, reallocating and freeing: (consider the implementation of Vector in C++ template, or ArrayList in Java)
+  + Hashtable
++ Tree
+  + Binary search tree
+  + Balanced binary tree: red-black, AVL
+  + Trie
+  + B-tree
++ PriorityQueue
++ Graph
+  + BST
+  + DST
++ More
+  + Bloom Filter
+  + Skip list
+  + Disjoint Sets
+  + Trie/Radix Trie
+  + Interval tree
+  + Segment tree
+  + Binary Indexed tree
+  + Range Tree
+  + Minimum Spanning Trees
+  + Treemap
+  + Genetic algorithm
+
 
 ### Testing your skills
 
