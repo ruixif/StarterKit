@@ -1,5 +1,5 @@
 # LinuxBeginner
-A simple list of necessary linux commands and knowledge. Actually Linux users are supposed to be familiar with all commands in GNU coreutils, but that can be too overwhelming for my absolute-beginner friends. Thus I made this list to smoothen the learning curve.
+A simple list of necessary linux commands and knowledge. Actually Linux users are encoraged to look into GNU coreutils, but that can be too overwhelming for my absolute-beginner friends. Thus I made this list to smoothen the learning curve.
 
 ## knowledge
 + environmental variables: $PATH, $JAVA_HOME
