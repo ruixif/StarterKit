@@ -38,4 +38,6 @@ A personal computer with any mainstream Linux distro (Ubuntu, Debian, CentOS, et
 + rsync
 
 ### execution
++ exec
++ trap
 + parallel
