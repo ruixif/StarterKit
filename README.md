@@ -47,7 +47,6 @@ Practice on some "core" leetcode problems (written in Chinese). Build some muscl
 
 https://github.com/youngyangyang04/leetcode-master/tree/master/problems
 
-
 ## Languages
 
 + Programming 
@@ -75,3 +74,11 @@ They are easy to learn and good for coding interview (in case your new job requi
 
 + Connection to database
   + Jdbc libraries. 
+
+## How to debug
+
++ Read the log or terminal output!
++ Read the stack trace!
++ Insert print or logging!
++ Learn how to use the debugger like [`gdb`](https://www.gnu.org/software/gdb/) or [`pdb`](https://docs.python.org/3/library/pdb.html). 
+
