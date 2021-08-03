@@ -20,6 +20,7 @@ My suggestion is a subset of and based on [CLRS](https://en.wikipedia.org/wiki/I
   + Hashtable
 + Tree
   + Binary search tree
+     + Tree traversal: In-order, post-order, pre-order
   + Balanced binary tree: red-black, AVL
   + Trie
   + B-tree
