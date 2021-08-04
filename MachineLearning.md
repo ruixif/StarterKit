@@ -7,3 +7,6 @@
 ## Advanced concepts:
 
 + Bayesian Learning Automaton
+
++ Gittins Index
+
